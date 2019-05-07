@@ -7,7 +7,6 @@ public class CalculPrixUnitaire {
 	
 	public CalculPrixUnitaire(String depart, String arrivee) {
 	
-	
 	}
 	public CalculPrixUnitaire() {
 		// TODO Auto-generated constructor stub
